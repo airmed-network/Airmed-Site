@@ -1,4 +1,4 @@
-baseurl = "https://airmed-network.github.io/"
+baseurl = "https://airmed-network.github.io/Airmed-Site/"
 title = "Universal"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
